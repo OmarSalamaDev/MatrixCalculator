@@ -1,5 +1,4 @@
 // Matrix.h library
-// Designed by Omar Abd-Alaziz Salama 
 
 
 /* >>>> Constants <<<< */

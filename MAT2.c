@@ -1,6 +1,4 @@
 // Main file
-// Developed by Omar Abd-Alaziz Salama & Mohammed Adel 
-
 
 /* >>>> Libraries <<<< */
 
@@ -35,7 +33,7 @@ void matrixSET(int c, MATRIX mat);
 int main(void)
 {
     // starting massege
-    printf("\nWelcome to matrix calculator v2.0.\nDeveloped and designed by Omar Abd-Alaziz Salama & Mohammed Adel\n");
+    printf("\nWelcome to matrix calculator v2.0.\nDeveloped and designed by Omar Salama\n");
     main_menu();
     return 0;
 }
